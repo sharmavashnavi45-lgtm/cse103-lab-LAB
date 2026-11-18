@@ -21,6 +21,6 @@ This repository contains lab work for LAB 3 of the Computer Fundamentals & Caree
 
 ## How to Run
 ```bash
-git clone [https://github.com/daberyadav93/cse103-lab-LAB3.git](https://github.com/daberyadav93/cse103-lab-LAB3.git)
+git clone [https://github.com/daberyadav93/cse103-lab-LAB3.git](https://github.com/sharmavashnavi45-lgtm/cse103-lab-LAB3.git)
 cd cse103-lab-LAB3
 python3 main.py
